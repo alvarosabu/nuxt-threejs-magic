@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "nuxt-threejs-magic",
+  "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
