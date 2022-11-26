@@ -1,6 +1,8 @@
+![repository-banner.png](https://res.cloudinary.com/alvarosaburido/image/upload/v1612193118/as-portfolio/Repo_Banner_kexozw.png)
+
 # Nuxt 3 + ThreeJS demo
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+> Demo showing how to use ThreeJS with Nuxt 3 from [AlvaroDevLabs](https://www.youtube.com/@AlvaroDevLabs)
 
 ## Setup
 
